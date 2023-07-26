@@ -1,3 +1,3 @@
 # Advancing skin toxicity predictions with HaCat cells and machine learning
-Contribution
+Contributors
 * Chalermdet Tinwiwat
