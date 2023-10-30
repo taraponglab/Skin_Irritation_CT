@@ -1,0 +1,94 @@
+LigandID,class,canonical_smiles
+1-Decanol,1,CCCCCCCCCCO
+Cyclamen aldehyde,1,CC(C=O)Cc1ccc(C(C)C)cc1
+1-Bromohexane,1,CCCCCCBr
+Di-n-propyl disulphide,1,CCCSSCCC
+"Benzenethiol, 5-(1,1-dimethylethyl)-2-methyl",1,Cc1ccc(C(C)(C)C)cc1S
+Heptanal,1,CCCCCCC=O
+Tetrachloroethylene,1,ClC(Cl)=C(Cl)Cl
+1-Bromo-4-chlorobutane,0,ClCCCCBr
+Diethyl phthalate,0,CCOC(=O)c1ccccc1C(=O)OCC
+Naphthalene acetic acid,0,O=C(O)Cc1cccc2ccccc12
+Allyl phenoxyacetate,0,C=CCOC(=O)COc1ccccc1
+Isopropanol,0,CC(C)O
+4-Methylthio-benzaldehyde,0,CSc1ccc(C=O)cc1
+Methyl stearate,0,CCCCCCCCCCCCCCCCCC(=O)OC
+Heptyl butyrate,0,CCCCCCCOC(=O)CCC
+Hexyl salicylate,0,CCCCCCOC(=O)c1ccccc1O
+Cinnamaldehyde,0,O=C/C=C/c1ccccc1
+Nonanoic acid,1,CCCCCCCCC(=O)O
+Butyl methacrylate,1,C=C(C)C(=O)OCCCC
+Butyric acid,1,CCCC(=O)O
+Decanoic acid  (capric acid),1,CCCCCCCCCC(=O)O
+1-Bromopentane,1,CCCCCBr
+alpha-Terpineol,1,CC1=CCC(C(C)(C)O)CC1
+Heptanoic acid,1,CCCCCCC(=O)O
+Octanoic acid (caprylic acid),1,CCCCCCCC(=O)O
+"N,N-Dimethylisopropylamine",1,CC(C)N(C)C
+Polyethylene glycol 400 (PEG-400),0,OCCO
+3-(Chloropropyl) trimethoxysilane (Silane A-1430),0,CO[Si](CCCCl)(OC)OC
+"3,3′-Dithiodipropionic acid",0,O=C(O)CCSSCCC(=O)O
+"2-Phenylethanol
+(phenylethyl alcohol)",0,OCCc1ccccc1
+Benzyl salicylate,0,O=C(OCc1ccccc1)c1ccccc1O
+"1-(4-Chlorophenyl)-3-(3,4-dichlorophenyl) urea",0,O=C(Nc1ccc(Cl)cc1)Nc1ccc(Cl)c(Cl)c1
+"3,3-Dimethylpentane",0,CCC(C)(C)CC
+"4,4′-Methylenebis(2,6-di-tert-butylphenol)",0,CC(C)(C)c1cc(Cc2cc(C(C)(C)C)c(O)c(C(C)(C)C)c2)cc(C(C)(C)C)c1O
+"Dodecanoic acid
+(lauric acid)",0,CCCCCCCCCCCC(=O)O
+1-Chloro-3-nitrobenzene (3-chloronitrobenzene),0,O=[N+]([O-])c1cccc(Cl)c1
+Benzyl benzoate,0,O=C(OCc1ccccc1)c1ccccc1
+2-(Formylamino)-3-thiophenecarboxylic acid,0,O=CNc1sccc1C(=O)O
+"4-Acetoxy-2,5-dimethyl-3(2H)-furanone
+(2,5-dimethyl-4-oxo-4,5-dihydrofuran-3-yl acetate)",0,CC(=O)OC1=C(C)OC(C)C1=O
+"4-Amino-4H-1,2,4-triazole
+(4-amino-1,2,4-triazole)",0,Nn1cnnc1
+Dipropylene glycol,0,CCC(O)OC(O)CC
+"Dipropylene glycol butyl ether, mixture of isomers
+(dipropylene glycol monobutyl ether; DPnB)",0,CCCCOCC(C)OCC(C)O
+Erucamide,0,CCCCCCCC/C=C\CCCCCCCCCCCC(N)=O
+Propylene glycol,0,CC(O)CO
+Triethylene glycol,0,OCCOCCOCCO
+Isopropyl palmitate,0,CCCCCCCCCCCCCCCC(=O)OC(C)C
+Isopropyl myristate,0,CCCCCCCCCCCCCC(=O)OC(C)C
+"2-Ethylhexyl 4-methoxycinnamate
+(octinoxate)",0,CCCCC(CC)COC(=O)/C=C/c1ccc(OC)cc1
+Tetrabromophenol blue,0,O=S1(=O)OC(c2cc(Br)c(O)c(Br)c2)(c2cc(Br)c(O)c(Br)c2)c2c(Br)c(Br)c(Br)c(Br)c21
+"2-Hydroxy-4-methoxybenzophenone,
+(Benzophenone-3)",0,COc1ccc(C(=O)c2ccccc2)c(O)c1
+Cyclohexadecanone,0,O=C1CCCCCCCCCCCCCCC1
+Methyl laurate,0,CCCCCCCCCCCC(=O)OC
+Capryl-isostearate,0,CCCCCCC(C)OC(=O)CCCCCCCCCCCCCCC(C)C
+2-Ethylhexyl-4-aminobenzoate,0,CCCCC(CC)COC(=O)c1ccc(N)cc1
+2-Phenylhexanenitrile,0,CCCCC(C#N)c1ccccc1
+Diisopropyl sebacate,0,CC(C)OC(=O)CCCCCCCCC(=O)OC(C)C
+3-Chloro-4-fluoronitrobenzene,0,O=[N+]([O-])c1ccc(F)c(Cl)c1
+"1,5-Hexadiene",0,C=CCCC=C
+Glycerol,0,OCC(O)CO
+Benzyl acetate,0,CC(=O)OCc1ccccc1
+Hydroxycitronellal,0,CC(CC=O)CCCC(C)(C)O
+n-Butyl propionate,0,CCCCOC(=O)CC
+Benzyl alcohol,0,OCc1ccccc1
+Allyl heptanoate,0,C=CCOC(=O)CCCCCC
+2-Ethoxy ethyl methacrylate,0,C=C(C)C(=O)OCCOCC
+Linalyl acetate,0,C=CC(C)(CCC=C(C)C)OC(C)=O
+Terpinyl acetate,0,CC(=O)OC(C)(C)C1CC=C(C)CC1
+Linalool,0,C=CC(C)(O)CCC=C(C)C
+D-Limonene,0,C=C(C)[C@H]1CC=C(C)CC1
+Eugenol,0,C=CCc1ccc(O)c(OC)c1
+Methyl palmitate ,0,CCCCCCCCCCCCCCCC(=O)OC
+"1,1,1-Trichloroethane",0,CC(Cl)(Cl)Cl
+Tri-isobutyl phosphate,0,CC(C)COP(=O)(OCC(C)C)OCC(C)C
+10-Undecenoic acid,0,C=CCCCCCCCCC(=O)O
+dl-Citronellol,0,CC(C)=CCCC(C)CCO
+"2-Methoxyphenol
+(guaiacol)",0,COc1ccccc1O
+"1,9-Decadiene",0,C=CCCCCCCC=C
+2-tert-Butylphenol,1,CC(C)(C)c1ccccc1O
+Carvacrol,1,Cc1ccc(C(C)C)cc1O
+Cyclohexylamine,1,NC1CCCCC1
+Lactic acid,1,CC(O)C(=O)O
+Ethanolamine,1,NCCO
+Propionic acid,1,CCC(=O)O
+"N,N-Dimethylbenzylamine",1,CN(C)Cc1ccccc1
+Maleic anhydride,1,O=C1C=CC(=O)O1

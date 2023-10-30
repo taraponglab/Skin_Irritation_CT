@@ -1,0 +1,60 @@
+<mxfile host="65bd71144e">
+    <diagram id="BXumluqs9N6Gj7PZKTuK" name="DAY 1">
+        <mxGraphModel dx="490" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;" parent="1" source="2" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Load data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="woWLrnyps9ivZgyakiIc-5" value="" style="edgeStyle=none;html=1;" parent="1" source="3" target="woWLrnyps9ivZgyakiIc-4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="แปลงข้อมูลเป็นข้อมูลที่ใช้งานได้ รวมถึงตัดข้อมูลที่ไม่จำเป็นออก&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="300" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="woWLrnyps9ivZgyakiIc-7" value="" style="edgeStyle=none;html=1;" parent="1" source="woWLrnyps9ivZgyakiIc-4" target="woWLrnyps9ivZgyakiIc-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="woWLrnyps9ivZgyakiIc-4" value="ใส่ข้อมูลของตาม rule of 5 Lispiki ได้แก่ MW logP HBA HBD" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="380" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="woWLrnyps9ivZgyakiIc-6" value="Plot 2 กราฟ คือ MW vs logP และ HBA vs HBD" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="460" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="KguUwrFurPITTU1h-C4M" name="DAY 2">
+        <mxGraphModel dx="490" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="aEFpTaBjVoe5MF5EPXD2-3" value="" style="edgeStyle=none;html=1;" parent="1" source="aEFpTaBjVoe5MF5EPXD2-1" target="aEFpTaBjVoe5MF5EPXD2-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="aEFpTaBjVoe5MF5EPXD2-1" value="คำนวณ molecular finger print ของ PubChem System" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="50" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="aEFpTaBjVoe5MF5EPXD2-5" value="" style="edgeStyle=none;html=1;" parent="1" source="aEFpTaBjVoe5MF5EPXD2-2" target="aEFpTaBjVoe5MF5EPXD2-4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="aEFpTaBjVoe5MF5EPXD2-2" value="&amp;nbsp;install PaDEL-Descriptor" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="130" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="aEFpTaBjVoe5MF5EPXD2-7" value="" style="edgeStyle=none;html=1;" parent="1" source="aEFpTaBjVoe5MF5EPXD2-4" target="aEFpTaBjVoe5MF5EPXD2-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="aEFpTaBjVoe5MF5EPXD2-4" value="คำนวณ PubChem finger print" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="220" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="aEFpTaBjVoe5MF5EPXD2-6" value="Principle Components analysis" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="310" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
